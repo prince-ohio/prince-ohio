@@ -40,7 +40,9 @@
 <br>
 <br>
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)<br>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <br>
 
 <img src="https://pacman.abozanona.me?username=prince-ohio" />
