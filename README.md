@@ -8,7 +8,7 @@
 
   <img align=right src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWs0aHJ1a2hlNmt5cTc1bXlsY2g4eTB4eWQxZDJqaDVnYmdmbnRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAYZh6hELIivibOJWH/giphy.gif" alt="Celebration GIF" width="200"/>
 
-A man may forgive a broken heart, but his wounded ego will always seek revenge.
+A man may forgive a broken heart, but his wounded ego will always seek revenge.<br>
   &nbsp;&nbsp; 🧠 Creating bugs since 1900. (Time Traveler)<br>
   &nbsp;&nbsp; 🔍 Currently: Exploring...<br>
   &nbsp;&nbsp; 🏗️ Goal: Build the world's largest...<br>
