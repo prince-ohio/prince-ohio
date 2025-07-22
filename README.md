@@ -8,7 +8,6 @@
 
   <img align=right src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWs0aHJ1a2hlNmt5cTc1bXlsY2g4eTB4eWQxZDJqaDVnYmdmbnRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAYZh6hELIivibOJWH/giphy.gif" alt="Celebration GIF" width="200"/>
 
-A man may forgive a broken heart, but his wounded ego will always seek revenge.<br>
   &nbsp;&nbsp; 🧠 Creating bugs since 1900. (Time Traveler)<br>
   &nbsp;&nbsp; 🔍 Currently: Exploring...<br>
   &nbsp;&nbsp; 🏗️ Goal: Build the world's largest...<br>
@@ -39,5 +38,10 @@ A man may forgive a broken heart, but his wounded ego will always seek revenge.<
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br> 
 
 ### Contributions
-<img src="https://pacman.abozanona.me?username=prince-ohio" />
+<img src="https://pacman.abozanona.me?username=prince-ohio" /><br>
+<br>
+<br>
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222222&width=500&lines=A+man+may+forgive+a+broken+heart%2C;+but+his+wounded+ego+will+always+seek+revenge." alt="Typing SVG" /></a>
+</p>
