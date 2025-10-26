@@ -43,5 +43,5 @@
 <br>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B0000&width=600&lines=A+man+may+forgive+a+broken+heart%2C;+but+his+wounded+ego+will+always+seek+revenge." alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EFBF04&width=600&lines=A+man+may+forgive+a+broken+heart%2C;+but+his+wounded+ego+will+always+seek+revenge." alt="Typing SVG" /></a>
 </p>
